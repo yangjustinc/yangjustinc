@@ -16,6 +16,6 @@
 
 ### Hi there 👋
 
-I'm Justin (he/him). I'm a psychiatric epidemiologist by training and I work mainly in R, Python, and SQL. I've used Stata in the past and I'm interested in learning Julia. I mainly conduct quantitative analyses using routinely collected or administrative data.
+I'm Justin (he/him). I'm a psychiatric epidemiologist by training and I work mainly in R, Python, and SQL. I've used Stata in the past and I'm interested in learning Julia. I mainly conduct quantitative analyses using routinely collected or administrative data. I've studied at the University of Cambridge, Johns Hopkins University, and the University of British Columbia. I now work at University College London and Camden & Islington NHS Foundation Trust. 
 
 I'm originally from Vancouver but have lived in the United States and United Kingdom. When I'm not working, I enjoy travelling, reading, art house cinema, and tabletop gaming. 
