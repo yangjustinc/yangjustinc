@@ -3,14 +3,20 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/yangjustinc/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a rel="me" href="https://fediscience.org/@JustinCYang">
+    <img src="https://img.shields.io/badge/Mastodon-5E54ED?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
   <a href="https://twitter.com/JustinCYang">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-00ACED?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>    
+    <a href="https://www.linkedin.com/in/yangjustinc">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https://twitter.com/JustinCYang](https://www.instagram.com/yangjustinc)">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://orcid.org/0000-0003-2881-4906">
+    <img src="https://img.shields.io/badge/Orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="OrcID Badge"/>
+  </a>  
+    <a href="https://scholar.google.com/citations?user=o-MsbBYAAAAJ">
+    <img src="https://img.shields.io/badge/scholar-3F47CC?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
   </a>  
 </div>
 
